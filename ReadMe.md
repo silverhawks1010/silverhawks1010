@@ -43,3 +43,5 @@
 ➣ Japan
 
 ➣ Manga/Anime
+
+![](https://github-readme-stats.vercel.app/api?username=silverhawks1010&show_icons=true&theme=radical)
