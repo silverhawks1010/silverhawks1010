@@ -22,7 +22,7 @@
 
 ## ➦ 🔧 Skills
 
-➣ I master the following programming languages: Python, GLua, Java, HTML/CSS.
+➣ I master the following programming languages: Python, GLua, Java, HTML/CSS, SQL.
 
 ➣ I have skills in the unix domain.
 
