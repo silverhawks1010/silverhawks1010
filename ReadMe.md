@@ -45,3 +45,5 @@
 ➣ Manga/Anime
 
 ![](https://github-readme-stats.vercel.app/api?username=silverhawks1010&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverhawks1010)](https://github.com/silverhawks1010/github-readme-stats)
