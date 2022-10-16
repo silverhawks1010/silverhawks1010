@@ -5,6 +5,7 @@
 <p align="center">
 <a href="https://twitter.com/_SilverHawks_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathis_dlb" height="30" width="40" /></a>
 <a href="https://discord.gg/p2Ts35ReBu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mathis#1234" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCom1-RQbwSRvSDV_pFrd4tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="test" height="30" width="40" /></a>
 </p>
 
 ## ➦ 🏫 Background:
